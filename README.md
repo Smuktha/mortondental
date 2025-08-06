@@ -73,25 +73,29 @@ Patients in Australia seeking reliable, accessible, and high-quality dental care
 
 - Integrate CMS (like Sanity) for easy blog updates by clinic admins
 - Add an interactive chatbot for appointment queries
-- Analytics integration
 - Accessibility improvements
 
 ---
 
 ## 🤝 Credits
 
-Developed by **Muktha Suvarna**  
-> Masters in Computer Applications | Full Stack Developer
+👩‍💻 Developed By
+Muktha Suvarna
+ [GitHub](https://github.com/Smuktha)
 
+Maithri
+ [GitHub](https://github.com/codemy3)
+
+Shipali K
+ [GitHub](https://github.com/shipali-k-account)
 ---
 
 ## 📫 Contact
 
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 🌐 [Portfolio](portfolio-mukthas-projects-7e55e4c8.vercel.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muktha-suvarna12/)
 - 💻 [GitHub](https://github.com/Smuktha)
 
 ---
 
-## 🗂️ Folder Structure (Key)
 
